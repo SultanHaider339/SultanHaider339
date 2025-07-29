@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# SultanHaider3339
-About Me
 # I'm Sultan Haider
 
 🎓 MS Data Science Student @ FAST University, Pakistan  
